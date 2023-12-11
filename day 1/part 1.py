@@ -1,3 +1,5 @@
+# the world isnt ready
+
 data = open("d1input")
 f = data.readlines()
 
